@@ -3,8 +3,7 @@
 Production-grade multi-seller ecommerce platform: **Buyers**, **Sellers**, and **Admins** on a single codebase. Each seller owns their storefront, products, promos, and orders — with admin-gated approval. Built with React Router (Framework Mode) + Express + Prisma (MongoDB), Better-Auth, Stripe, UploadThing, Resend, Inngest + Gemini AI.
 
 > Monorepo: `backend/` (Express API) + `frontend/` (React Router SSR app)
-
----
+----
 
 ## Table of Contents
 
